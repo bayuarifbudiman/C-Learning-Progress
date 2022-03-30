@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-
+/* Hackerank link https://www.hackerrank.com/challenges/arrays-introduction */
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
 

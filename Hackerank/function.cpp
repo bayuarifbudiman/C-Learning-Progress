@@ -3,9 +3,7 @@
 #include <vector>
 using namespace std;
 
-/*
-Add `int max_of_four(int a, int b, int c, int d)` here.
-*/
+/* Hackerank link https://www.hackerrank.com/challenges/c-tutorial-functions */
 int max_of_four(int a, int b, int c, int d){
     int max_val = 0;
 

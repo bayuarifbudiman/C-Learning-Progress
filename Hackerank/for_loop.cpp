@@ -2,6 +2,7 @@
 #include <cstdio>
 using namespace std;
 
+/* Hackerank link https://www.hackerrank.com/challenges/c-tutorial-for-loop */
 int main() {
 
     // define variable

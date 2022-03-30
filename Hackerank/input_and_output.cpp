@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-
+/* hackerank link https://www.hackerrank.com/challenges/cpp-input-and-output */
 int main() {
     // define variable and type
     int a, b, c;

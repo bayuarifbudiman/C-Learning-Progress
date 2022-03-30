@@ -2,6 +2,7 @@
 #include <cstdio>
 using namespace std;
 
+/* Hackerank link https://www.hackerrank.com/challenges/c-tutorial-basic-data-types */
 int main() {
     // define variable and type
     int a;

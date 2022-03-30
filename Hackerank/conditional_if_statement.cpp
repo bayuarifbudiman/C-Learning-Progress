@@ -5,6 +5,7 @@ using namespace std;
 string ltrim(const string &);
 string rtrim(const string &);
 
+/* Hackerank link https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else */
 int main()
 {
     string n_temp;
