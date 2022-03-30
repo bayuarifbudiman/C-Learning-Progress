@@ -2,7 +2,7 @@
 
 STL is a C++ Standard Library that provide solutions to manipulating collections of data with modern efficient algorithms
 
-STL has three components :
+STL has three components:
 <ul>
 <li> Containers are used to manage collections of objects of a certain kind.</li>
 <li> Iterators common interface for all containers to step/traverse through the elements</li>
