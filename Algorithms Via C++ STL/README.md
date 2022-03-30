@@ -18,6 +18,6 @@
 </ul>
 
 Example of sequence containers which is vector
-<img src='/img/vector.png'> </img>
+<img src="https://raw.githubusercontent.com/bayuarifbudiman/Cpp-Learning-Progress/main/Algorithms%20Via%20C%2B%2B%20STL/img/vector.png"></img>
 
 <h5> STL Iterators </h5> are used to point at the memory addresses of STL containers. They are primarily used in sequence of numbers, characters etc. They reduce the complexity and execution time of program.
